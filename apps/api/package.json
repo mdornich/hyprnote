@@ -11,7 +11,7 @@
     "@sentry/bun": "^10.26.0",
     "@supabase/supabase-js": "^2.84.0",
     "@t3-oss/env-core": "^0.13.8",
-    "hono": "^4.10.6",
+    "hono": "^4.11.4",
     "stripe": "^19.3.1",
     "zod": "^4.1.13"
   },
